@@ -1,5 +1,4 @@
 # AnimalDrone
-Graph Regularized Flow Attention Network for Video Animal Counting from Drones
 ![VisDrone](https://github.com/VisDrone/AnimalDrone/blob/master/data_collection.jpg)
 
 
