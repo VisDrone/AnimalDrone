@@ -11,10 +11,10 @@ We propose a large-scale video based animal counting dataset collected by drones
 ## Dataset
 
 Baidu:  
-[AnimalDrone-PartA](https://pan.baidu.com/s/1nznrp1aul5UkuoFdrV7TdA)  
-Extraction code：7867
+AnimalDrone-PartA 
 
-AnimalDrone-PartB 
+[AnimalDrone-PartB](https://pan.baidu.com/s/1nznrp1aul5UkuoFdrV7TdA)  
+Extraction code：7867
 
 Google:  
 
