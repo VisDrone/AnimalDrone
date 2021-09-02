@@ -30,6 +30,8 @@ AnimalDrone-PartB
 
 
 ## Citation
+
+```
 @article{zhu2021graph,
   title={Graph Regularized Flow Attention Network for Video Animal Counting from Drones},
   author={Zhu, Pengfei and Peng, Tao and Du, Dawei and Yu, Hongtao and Zhang, Libo and Hu, Qinghua},
@@ -37,4 +39,5 @@ AnimalDrone-PartB
   year={2021},
   publisher={IEEE}
 }
+```
 
