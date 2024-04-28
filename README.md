@@ -12,13 +12,13 @@ We propose a large-scale video based animal counting dataset collected by drones
 
 Baidu:
 
-[AnimalDrone-PartA](https://pan.baidu.com/s/1vFZAJFYV6ierxBZtsXq66Q)
+[AnimalDrone-PartA](https://pan.baidu.com/s/16Yh3ylOfuvWGEpkLHXksnQ?pwd=1895)
 
-Extraction code：7867
+Extraction code：1895
 
-[AnimalDrone-PartB](https://pan.baidu.com/s/1nznrp1aul5UkuoFdrV7TdA)  
-Extraction code：7867
+[AnimalDrone-PartB](https://pan.baidu.com/s/1lBQFzt5dk8_6XnCDWNnlzw?pwd=1895)  
 
+Extraction code：1895
 
 Google:  
 
@@ -31,7 +31,7 @@ AnimalDrone-PartB
 
 ## Citation
 
-```
+```bibtex
 @article{zhu2021graph,
   title={Graph Regularized Flow Attention Network for Video Animal Counting from Drones},
   author={Zhu, Pengfei and Peng, Tao and Du, Dawei and Yu, Hongtao and Zhang, Libo and Hu, Qinghua},
